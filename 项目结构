@@ -1,0 +1,4 @@
+image-search/
+├── app.py        # 后端服务（爬虫+接口）
+├── index.html    # 前端网站页面
+└── run.bat       # 一键启动（Windows）
